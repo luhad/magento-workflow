@@ -2,7 +2,7 @@
 Magento Workflow and Development Tools
 
 + Front end Development
-  + [generator-grunt-magento](https://www.npmjs.com/package/generator-grunt-magento): Yeoman generator to boost Magento front-end development.
+  + [Generator Grunt Magento](https://www.npmjs.com/package/generator-grunt-magento): Yeoman generator to boost Magento front-end development.
 
 + IDE Plugins
   + [Magicento](http://magicento.com/): Magento IDE Plugin (for PHPStorm).
@@ -15,11 +15,11 @@ Magento Workflow and Development Tools
   + [Magento composer installer](http://magebase.com/magento-tutorials/composer-with-magento/): Module Manager to keep each modules source separated.
 
 + Tools
-  + [n98-magerun](https://github.com/netz98/n98-magerun): Generic Magento CLI tool.
+  + [N98-magerun](https://github.com/netz98/n98-magerun): Generic Magento CLI tool.
   + [Jumpstorm](https://github.com/netresearch/jumpstorm): Extendible Tool to set up Magento, including extensions, settings and execution of additional tasks.
 
 + Debugger
-  + [xdebug](http://xdebug.org/): PHP Debugger.
+  + [Xdebug](http://xdebug.org/): PHP Debugger.
 
 + Debugger
   + Development
