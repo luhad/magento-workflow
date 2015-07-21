@@ -5,9 +5,9 @@ Magento Workflow and Development Tools
   + [Generator Grunt Magento](https://www.npmjs.com/package/generator-grunt-magento): Yeoman generator to boost Magento front-end development.
 
 + IDE Plugins
-  + [Magicento](http://magicento.com/): Magento IDE Plugin (for PHPStorm).
-  + [Brackets Magento Hint](https://github.com/rafaelstz/brackets-magento-hint): Magento Frontend Hint - Plugin for Brackets, which will help you in writing Magento Themes.
-  + [Magento Tools](https://atom.io/packages/magento-tools): Magento Tools is perfect for those who want to be fast and practical in Magento development.
+  + [Magicento](http://magicento.com/): Magento IDE Plugin. Plugin for PHPStorm.
+  + [Brackets Magento Hint](https://github.com/rafaelstz/brackets-magento-hint): Magento Frontend Hint. Plugin for Brackets.
+  + [Magento Tools](https://atom.io/packages/magento-tools): Magento Tools is perfect for those who want to be fast and practical in Magento development. Plugin for Atom.
 
 + Modules and Dependency Management
   + [Modman](https://github.com/colinmollenhour/modman): Module Manager to keep each modules source separated.
