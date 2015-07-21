@@ -19,11 +19,9 @@ Magento Workflow and Development Tools
   + [Jumpstorm](https://github.com/netresearch/jumpstorm): Extendible Tool to set up Magento, including extensions, settings and execution of additional tasks.
 
 + Debugger
-  + [Xdebug](http://xdebug.org/): PHP Debugger.
-
-+ Debugger
   + Development
     + [PHPUnit](http://phpunit.de/manual/current/en/index.html): Unit and Integration Testing.
+    + [Xdebug](http://xdebug.org/): PHP Debugger.
 
   + For Store
     + [Advanced Developer Tools](http://www.magentocommerce.com/magento-connect/advanced-developer-tools.html): Advanced Developer Tools comes with tool-bars to inspect elements/blocks and override them in few clicks.
